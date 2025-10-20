@@ -1,3 +1,10 @@
+# Housing Price Prediction Using Linear Regression & Random Forest
+
+## Project Overview
+This project predicts housing prices using the *California Housing dataset. It demonstrates how **Linear Regression* and *Random Forest Regression* models can be applied to real-world data for price prediction. The goal is to compare the performance of both models and understand which model predicts housing prices more accurately.
+
+---
+
 ## Dataset
 - *Source:* California Housing dataset from sklearn.datasets
 - *Features:*
